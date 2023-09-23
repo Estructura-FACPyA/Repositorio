@@ -1,0 +1,5 @@
+import pandas as pd 
+
+dataframe = pd.read_excel('C:\Users\Adi\Downloads/tablas.xlsx', index_col=0 
+
+print(dataframe.head()) 
