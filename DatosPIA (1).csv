@@ -1,0 +1,51 @@
+IDVenta,FechaVenta,Sucursal,Producto,Cantidad,PrecioUnitario,TotalVenta
+1,14/11/2023,Apodaca,TV LG,3,8999,26997
+2,14/11/2023,Apodaca,TV LG,8,8999,71992
+3,14/11/2023,Apodaca,Lavadora,1,13999,13999
+4,14/11/2023,Apodaca,Bicicleta,2,4039,8078
+5,14/11/2023,Guadalupe,TV LG,2,9200,18400
+6,14/11/2023,Guadalupe,TV LG,2,9200,18400
+7,14/11/2023,Guadalupe,TV LG,1,9200,9200
+8,14/11/2023,Guadalupe,Lavadora,2,11999,23998
+9,14/11/2023,Guadalupe,Lavadora,1,11999,11999
+10,15/11/2023,Guadalupe,Play Station 5,2,10000,20000
+11,15/11/2023,Guadalupe,Bicicleta,2,3999,7998
+12,15/11/2023,San nicolas,TV LG,1,7999,7999
+13,15/11/2023,San nicolas,TV LG,2,7999,15998
+14,15/11/2023,San nicolas,TV LG,3,7999,23997
+15,15/11/2023,San nicolas,TV LG,4,7999,31996
+16,16/11/2023,San nicolas,Lavadora,1,10500,10500
+17,16/11/2023,San nicolas,Lavadora,3,10500,31500
+18,16/11/2023,San nicolas,Bicicleta,4,5100,20400
+19,16/11/2023,San nicolas,Bicicleta,5,5100,25500
+20,16/11/2023,San nicolas,Play Station 5,1,12000,12000
+21,16/11/2023,Escobedo,TV LG,2,6500,13000
+22,16/11/2023,Escobedo,TV LG,3,6500,19500
+23,16/11/2023,Escobedo,TV LG,4,6500,26000
+24,16/11/2023,Escobedo,TV LG,1,6500,6500
+25,16/11/2023,Escobedo,Lavadora,2,9800,19600
+26,16/11/2023,Escobedo,Lavadora,1,9800,9800
+27,16/11/2023,Escobedo,Bicicleta,4,3000,12000
+28,17/11/2023,Escobedo,Bicicleta,1,3000,3000
+29,17/11/2023,Escobedo,Bicicleta,2,3000,6000
+30,17/11/2023,Escobedo,Lavadora,2,9800,19600
+31,18/11/2023,San Pedro,Macbook Air Apple,1,25000,25000
+32,18/11/2023,San Pedro,Macbook Air Apple,1,25000,25000
+33,18/11/2023,San Pedro,Macbook Air Apple,2,25000,50000
+34,18/11/2023,San Pedro,Macbook Air Apple,3,25000,75000
+35,18/11/2023,San Pedro,Macbook Air Apple,3,25000,75000
+36,18/11/2023,San Pedro,Play Station 5,2,13000,26000
+37,19/11/2023,San Pedro,Play Station 5,3,13000,39000
+38,19/11/2023,San Pedro,Play Station 5,2,13000,26000
+39,19/11/2023,San Pedro,Lavadora,1,15000,15000
+40,19/11/2023,San Pedro,Lavadora,2,15000,30000
+41,19/11/2023,Monterrey,TV LG,3,12999,38997
+42,19/11/2023,Monterrey,TV LG,2,12999,25998
+43,20/11/2023,Monterrey,TV LG,1,12999,12999
+44,20/11/2023,Monterrey,Play Station 5,2,13000,26000
+45,20/11/2023,Monterrey,Play Station 5,1,13000,13000
+46,20/11/2023,Monterrey,Macbook Air Apple,1,25000,25000
+47,20/11/2023,Monterrey,Macbook Air Apple,2,25000,50000
+48,20/11/2023,Monterrey,TV LG,4,12999,51996
+49,21/11/2023,Monterrey,Lavadora,5,11999,59995
+50,21/11/2023,Monterrey,Lavadora,4,11999,47996
